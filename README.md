@@ -12,7 +12,7 @@ If you spot something, feel free to use Issues to raise suggestions, changes, re
 
 ### [365 Service Alerts Summary to Slack](workflows\365_Service_Alerts__Summarize_and_push_alert_to_Slack.json)
 
-Intended for a dedicated Slack outage notification channel, and to be readable on mobile or desktop.
+Intended for a dedicated Slack channel for outage notifications, and to be readable on mobile or desktop.
 
 - Determines if the alert impacts your users region (manually defined), if provided by MSFT, and adjusts the summary accordingly.
 - Uses Slack Blocks and provides a button to the M365 Incident (admin.microsoft.com)
