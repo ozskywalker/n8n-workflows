@@ -20,6 +20,8 @@ Intended for a dedicated Slack channel for outage notifications, and to be reada
 - Cleans up by deleting the original alert email, after successful send to Slack
 - Uses OpenAI's 4o-mini model, can be easily replaced with locally hosted Ollama or alternative service, with the same prompts.
 
+_Don't like Slack?_ Can easily replace with [ntfy.sh](https://ntfy.sh/), Teams, Discord, or whatever platform you prefer.
+
 **Download & Setup**
 
 - [**Download & import the workflow**](workflows\365_Service_Alerts__Summarize_and_push_alert_to_Slack.json)
