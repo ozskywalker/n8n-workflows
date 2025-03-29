@@ -10,7 +10,7 @@ If you spot something, feel free to use Issues to raise suggestions, changes, re
 
 ## Workflows
 
-### [365 Service Alerts Summary to Slack](workflows\365_Service_Alerts__Summarize_and_push_alert_to_Slack.json)
+### [365 Service Alerts Summary to Slack](workflows/365_Service_Alerts__Summarize_and_push_alert_to_Slack.json)
 
 Intended for a dedicated Slack channel for outage notifications, and to be readable on mobile or desktop.
 
@@ -24,7 +24,7 @@ _Don't like Slack?_ Can easily replace with [ntfy.sh](https://ntfy.sh/), Teams, 
 
 **Download & Setup**
 
-- [**Download & import the workflow**](workflows\365_Service_Alerts__Summarize_and_push_alert_to_Slack.json)
+- [**Download & import the workflow**](workflows/365_Service_Alerts__Summarize_and_push_alert_to_Slack.json)
 - Add your credentials (OpenAI, Slack bot connection)
 - Modify the system prompt to call out the countries your users reside in
 
