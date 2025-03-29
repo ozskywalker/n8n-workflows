@@ -14,7 +14,8 @@ If you spot something, feel free to use Issues to raise suggestions, changes, re
 
 Intended for a dedicated Slack channel for outage notifications, and to be readable on mobile or desktop.
 
-- Determines if the alert impacts your users region (manually defined), if provided by MSFT, and adjusts the summary accordingly.
+- Scans for M365 outage alert emails
+- Checks if it impacts your users in specific countries (list manually defined), if the alert calls it out, and adjusts the summary accordingly.
 - Uses Slack Blocks and provides a button to the M365 Incident (admin.microsoft.com)
 - Cleans up by deleting the original alert email, after successful send to Slack
 - Uses OpenAI's 4o-mini model, can be easily replaced with locally hosted Ollama or alternative service, with the same prompts.
