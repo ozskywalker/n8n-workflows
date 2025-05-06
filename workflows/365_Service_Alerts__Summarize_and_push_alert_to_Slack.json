@@ -51,7 +51,7 @@
         0
       ],
       "id": "6c392e16-8bae-4336-a7ba-1c2bc39a48ec",
-      "name": "Slack",
+      "name": "Post outage to Slack",
       "webhookId": "",
       "credentials": {
         "slackApi": {
@@ -76,7 +76,7 @@
         0
       ],
       "id": "45e2f8bc-48e8-489a-9a5e-bdbbbb399bf7",
-      "name": "Microsoft Outlook",
+      "name": "Clear alert email from mailbox",
       "webhookId": "",
       "credentials": {
       }
