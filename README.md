@@ -12,7 +12,7 @@ If you spot something, feel free to use Issues to raise suggestions, changes, re
 
 ## [365 Service Alerts Summary to Slack](workflows/365_Service_Alerts__Summarize_and_push_alert_to_Slack.json)
 
-NB: _pending publish on N8N marketplace_
+[Link to workflow published on N8N marketplace](https://n8n.io/workflows/3353-summarize-microsoft-365-outage-alerts-with-chatgpt-and-send-to-slack)
 
 Intended for a dedicated Slack channel for outage notifications, and to be readable on mobile or desktop.
 
@@ -62,7 +62,7 @@ ie. _“- Assume the organization has users primarily in the U.S. and Australia.
 
 ## [Automatically document and backup N8N workflows](workflows/Automatically_document_n8n_workflows_directly_in_Notion_database.json)
 
-[Hosted version on N8N marketplace](https://n8n.io/workflows/3354-automatically-document-and-backup-n8n-workflows/)
+[Link to workflow published on N8N marketplace](https://n8n.io/workflows/3354-automatically-document-and-backup-n8n-workflows/)
 
 Automatically backs up your workflows to Github and generates documentation in a Notion database.
 
